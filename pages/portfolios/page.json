@@ -1,29 +1,31 @@
 {
 	"name": "portfolios",
-	"portfolios": [
-		{
-			"id": "",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"name": "andrey.lizivinskiy"
-		},
-		{
-			"id": "",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"name": "andrey.lizivinskiy"
-		},
-		{
-			"id": "",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"name": "andrey.lizivinskiy"
-		},
-		{
-			"id": "",
-			"thumb": "https://neryxomka.com/template/img/welcome.png",
-			"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-			"name": "andrey.lizivinskiy"
-		}
+	"tags": [
+	  {
+		"name": "Cyber",
+		"portfolios": [
+		  {
+			"thumb": "/artemvelihin/img/1.jpg",
+			"price": "10$",
+			"name": "Game"
+		  },
+		  {
+			"thumb": "/artemvelihin/img/2.jpg",
+			"price": "10$",
+			"name": "Cyber"
+		  },
+		  {
+			"thumb": "/artemvelihin/img/3.jpg",
+			"price": "10$",
+			"name": "Game"
+		  },
+		  {
+			"thumb": "/artemvelihin/img/4.jpg",
+			"price": "10$",
+			"name": "Cyber"
+		  }
+		]
+	  }
 	]
-}
+  }
+  
